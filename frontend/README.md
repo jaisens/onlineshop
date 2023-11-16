@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+Install Node Modules in frontend and backend folders using
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## `npm install`
+
+Then put all the environment variables in the .env example file in the backend
 
 ## Available Scripts
 
